@@ -1,33 +1,3 @@
-<<<<<<< HEAD
-node_modules
-coverage
-*.log
-npm-debug.log
-.logs
-logs
-*.swp
-run
-*-run
-.idea
-.DS_Store
-.tmp
-docs/CONTRIBUTING.md
-docs/node_modules
-docs/README.md
-docs/db.json
-docs/source/release/index.md
-docs/source/member_guide.md
-docs/source/_data/versions.yml
-docs/**/contributing.md
-docs/public
-docs/plugins.png
-
-package-lock.json
-yarn.lock
-
-.sync-config.cson
-sftp-config.json
-=======
 # Logs
 logs
 *.log
@@ -86,5 +56,4 @@ typings/
 
 # dotenv environment variables file
 .env
->>>>>>> f29f207afc5e741c1178ddb691faa34beb368397
 
